@@ -26,3 +26,5 @@ Test.csv contains the same columns but without the Tags, which you are to predic
 The questions are randomized and contains a mix of verbose text sites as well as sites related to math and programming. The number of questions from each site may vary, and no filtering has been performed on the questions (such as closed questions).
 
 Data can be found <a href="https://www.kaggle.com/competitions/facebook-recruiting-iii-keyword-extraction/data"> here. </a>
+
+Note : It is expected that training data is available in the same folder as jupyter notebook as "train.csv".
